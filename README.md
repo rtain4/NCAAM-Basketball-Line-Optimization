@@ -3,7 +3,7 @@ This tool helps identify the most optimal 5-man lineup for a selected NCAA menâ€
 
 Coaches and general managers often face the challenge of determining the most effective five-player lineup on the court at any given time. This involves understanding individual player strengths and weaknesses, how they complement or contradict each other, and how to best exploit the opponent's vulnerabilities. Traditional scouting relies heavily on observation and subjective analysis. This tool aims to provide a more objective and data-driven approach to lineup selection.
 
-What data was used and how was it sourced?
+**What data was used and how was it sourced?**
 
 The primary data source for this tool is advanced college basketball statistics from barttorvik.com. Specifically, the tool uses player statistics from the 2023-2024 and 2024-2025 seasons. The data is sourced directly from the provided CSV URLs:
 
